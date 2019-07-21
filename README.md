@@ -7,7 +7,7 @@ This is an NLP based binary classification problem. I plan to use a variety of a
 3. Using pre-Learned word Embeddings - GLOVE
 4. Effectively using GLOVE for paragraph representations
 
-The data set used is from a challenge hostedon kaggle by google. The data set contains a large number of user comments that have been labeled(binary) by humans for toxic behaviour. The objective is to learn a model from this labelled data that can identify toxic behaviour in commnet text.
+The data set used is from a challenge hosted on kaggle by google. The data set contains a large number of user comments that have been labeled(binary) by humans for toxic behaviour. The objective is to learn a model from this labelled data that can identify toxic behaviour in commnet text.
 
 ## EDA
 
